@@ -1,6 +1,9 @@
-# React 7-Segment Display
+# React-19 7-Segment Display
+This is a fork of the following project: https://github.com/nachovigilante/react-7-segment-display By nachovigilante
 
-A React component that simulates a 7-segment display.
+NOTE: the only changes made here are to make this compatible with react 19
+
+A React 19 component that simulates a 7-segment display.
 
 ![Display demo](./assets/Display.gif)
 
