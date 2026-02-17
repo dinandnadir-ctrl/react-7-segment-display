@@ -15,7 +15,7 @@ A React component that simulates a 7-segment display.
 ```jsx
 import { Display } from "react-7-segment-display";
 
-const App = () => <Display value="77" />;
+const App = () => <Display value="16" />;
 
 export default App;
 ```
